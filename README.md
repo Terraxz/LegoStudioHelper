@@ -5,6 +5,6 @@ One of the biggest frustrations for LEGO developers using Lego Studio is how it 
 In \src your can find the python source.
 In \dist you can find the compiled exe file.
 
-If you enjoys the app, you can support me by buying my [cup of coffee](https://rebrickable.com/users/Terraxz/mocs/)
+If hope you [enjoy the app] (https://rebrickable.com/users/Terraxz/mocs/)
 
 Terraxz
