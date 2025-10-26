@@ -24,7 +24,7 @@ This code is released under the MIT License.
 You are free to use, modify, and distribute it as you wish.
 
 Support:
-If you enjoy this app, feel free to buy me a cup of coffee ☕:
+If you enjoy this app, please follow me on rebrickable:
 https://rebrickable.com/users/Terraxz/mocs/
 
 
@@ -1451,7 +1451,7 @@ def open_help_window():
         "Then select your latest file with the corrupted instructions.\n"
         "When the fix button is pressed, this app will attempt to recreate the instructions with the data from the backup.\n"
         "The original file will not be overwritten, but a new fixed file will be created, with hopefully a lot of the instructions restored.\n\n"
-        "If you like this app, feel free to buy my cup of coffee:\n"
+        "If you like this app, please follow me on rebrickable:\n"
     )
 
     text_widget.insert("end", help_text)
